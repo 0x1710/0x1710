@@ -27,7 +27,7 @@
 <h2> 👨🏻‍💻 &nbsp;Who am I ?</h2>
 
 ```yaml
-name: Yassine
+Name: Yassine
 located_in: Morocco
 current_position: Student 
 education:
