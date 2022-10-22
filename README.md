@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src= "<iframe src="https://giphy.com/embed/pNx09ajeVCJ3O" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/request-berserk-black-swordsman-pNx09ajeVCJ3O">via GIPHY</a></p>">
+  <img src= "https://media.giphy.com/media/pNx09ajeVCJ3O/giphy.gif">
 </p>
 
 ---
