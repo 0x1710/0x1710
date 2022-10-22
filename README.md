@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Contact me :  💬
+  Contact me   💬
 </h1>
 
 <p align="center">
@@ -32,8 +32,10 @@ located_in: Morocco
 current_position: Student 
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Self-Taught Coder",
+    "Bac in Maths & Physics",
     "Bachelor's in Linguistics",
+    
   ]
 
 
