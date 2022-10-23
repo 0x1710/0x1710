@@ -29,7 +29,7 @@
 ```yaml
 Name: Yassine
 located_in: Morocco
-current_position: Student 
+current_position: Student | Self Employed
 education:
   [
     "Self-Taught Coder",
