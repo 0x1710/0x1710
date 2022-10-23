@@ -34,7 +34,7 @@ education:
   [
     "Self-Taught Coder",
     "Bac in Maths & Physics",
-    "Bachelor's in Linguistics",
+    "B.A in Linguistics",
     
   ]
 
