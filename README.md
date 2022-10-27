@@ -52,7 +52,7 @@ fields_of_interests:
 
   
 currently_learning: ["I'm enrolled in Deeplearning.ai (NLP & ML) spe and doing ALX SWE course"]
-2022 Goals: ["Graduate (check) Enroll in EMCL++ program"]
+2022 Goals: ["Graduate Uni (check), grad Holberton School , Get accepted intp EMCL++ program"]
 Hobbies: ["Gaming", "Pentesting", "Reading", "Learning stuff", "making stuff :p"]
 ```
   
